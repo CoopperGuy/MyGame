@@ -1,0 +1,27 @@
+﻿# Unreal Engine
+Saved/
+Intermediate/
+DerivedDataCache/
+Build/
+Binaries/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.opendb
+
+# Content 폴더의 큰 파일들
+Content/Movies/
+Content/Cinematics/
+Content/StarterContent/
+*.uasset
+*.umap
+*.pak
+*.pdb
+
+# OS
+.DS_Store
